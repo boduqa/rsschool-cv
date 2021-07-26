@@ -1,1 +1,1 @@
-https://boduqa.github.io/rsschool-cv/cv
+https://boduqa.github.io/rsschool-cv/
