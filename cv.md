@@ -1,5 +1,5 @@
 # CV
 ## *Bohdan Posobilov*
-__Contacts__
-**ponosbos@gmail.com**
-__*+38(066)337-25-55*__
+### __Contacts__
+#### __ponosbos@gmail.com__
+#### *+38(066)337-25-55*
