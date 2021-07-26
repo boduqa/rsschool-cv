@@ -1,1 +1,0 @@
-https://boduqa.github.io/rsschool-cv/cv
